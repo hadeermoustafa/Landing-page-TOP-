@@ -1,3 +1,49 @@
 body{
-   
+   font-family: 'Roboto', sans-serif;
+}
+.hero{
+    background: #1f2937;
+    font-size: 18px;
+    color: #e5e7eb;
+    padding:0 100px 100px 100px;
+    
+}
+
+#logo{
+font-size: 28px;
+color: #f9faf8;
+}
+
+.left-side .right-side{
+    width:50%
+}
+
+.left-side h3{
+font-size: 48px;
+font-weight: bolder;
+color: #f9faf8;
+}
+
+.hero ul,a{
+    text-decoration: none;
+    color: #e5e7eb;
+    list-style: none;
+}
+#header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
+nav ul{
+    display: flex;
+}
+
+nav > ul > li{
+    margin:10px;
+}
+
+#main{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
