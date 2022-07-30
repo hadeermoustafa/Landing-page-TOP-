@@ -108,3 +108,13 @@ h3.center
     padding: 5px 15px;
     cursor: pointer;
 }
+
+footer{
+    background: #1f2937;
+    color: #fff;
+   justify-content: center;
+   align-content: center;
+    display: flex;
+    padding: 50px;
+
+}
