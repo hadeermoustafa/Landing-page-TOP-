@@ -90,3 +90,21 @@ h3.center
     display: flex;
     justify-content: space-between;
 }
+#cta{
+    background-color: #3882f6;
+    color: #fff;
+    border-radius: 5px;
+    padding: 50px;
+    margin: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#cta button{
+    color: #fff;
+    background-color:#3882f6 ;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 5px 15px;
+    cursor: pointer;
+}
