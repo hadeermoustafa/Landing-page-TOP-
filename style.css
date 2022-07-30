@@ -74,3 +74,19 @@ h3.center
     flex-direction: column;
     align-items: center;
 }
+#testmonial{
+    background-color: #e5e7eb;
+    padding: 100px;
+}
+
+#testmonial p {
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    color: #1f2937;
+}
+
+#sub-test{
+    display: flex;
+    justify-content: space-between;
+}
