@@ -9,6 +9,15 @@ body{
     
 }
 
+.hero button{
+    background-color: #3882f6;
+    border-radius: 5px;
+    border: 1px solid #3882f6;
+    cursor: pointer;
+    color: #fff;
+    padding: 5px 15px;
+}
+
 #logo{
 font-size: 28px;
 color: #f9faf8;
@@ -66,7 +75,7 @@ h3.center
 .column{
     width: 150px;
     height: 150px;
-    border: 2px solid blue;
+    border: 2px solid #3882f6;
     border-radius: 5px;
 }
 .sub-row{
